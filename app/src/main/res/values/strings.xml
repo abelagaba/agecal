@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age calculator</string>
+    <string name="enter_your_yob">Enter your YOB</string>
+    <string name="your_age_will_appear_here">Your age will appear here</string>
+    <string name="enter_your_year_of_birth">Enter your YOB</string>
+    <string name="get_my_age">Get my age</string>
+</resources>
